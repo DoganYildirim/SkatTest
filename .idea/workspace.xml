@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e64fa2e9-19f1-4f7b-b514-b762c1b7dbaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQrkqy4ZCxvKKChKOxSZXfUdgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mappers" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartGame">
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.StartGame" />
+      <module name="bowling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.canScoreRandomGameWithStrikeAndSpare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GameTest" />
+      <option name="METHOD_NAME" value="canScoreRandomGameWithStrikeAndSpare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.canScoreSmallGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GameTest" />
+      <option name="METHOD_NAME" value="canScoreSmallGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.canScoreStrikeAfterStrike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GameTest" />
+      <option name="METHOD_NAME" value="canScoreStrikeAfterStrike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGame" />
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.GameTest.canScoreRandomGameWithStrikeAndSpare" />
+        <item itemvalue="JUnit.GameTest.canScoreStrikeAfterStrike" />
+        <item itemvalue="JUnit.GameTest.canScoreSmallGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e64fa2e9-19f1-4f7b-b514-b762c1b7dbaf" name="Default Changelist" comment="" />
+      <created>1580989304500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580989304500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1581195562045">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581195562045" />
+    <state x="563" y="221" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581190199889">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="563" y="221" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581190199889" />
+    <state x="487" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581346422880">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="487" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581346422880" />
+    <state x="603" y="235" key="#xdebugger.evaluate" timestamp="1581198775680">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1581198775680" />
+    <state width="521" height="466" key="DebuggerActiveHint" timestamp="1581202225210">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="521" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1581202225210" />
+    <state width="1638" height="372" key="GridCell.Tab.0.bottom" timestamp="1581434661082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661082" />
+    <state width="1638" height="372" key="GridCell.Tab.0.center" timestamp="1581434661081">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661081" />
+    <state width="1638" height="372" key="GridCell.Tab.0.left" timestamp="1581434661081">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661081" />
+    <state width="1638" height="372" key="GridCell.Tab.0.right" timestamp="1581434661082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661082" />
+    <state width="1638" height="372" key="GridCell.Tab.1.bottom" timestamp="1581434661084">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661084" />
+    <state width="1638" height="372" key="GridCell.Tab.1.center" timestamp="1581434661083">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661083" />
+    <state width="1638" height="372" key="GridCell.Tab.1.left" timestamp="1581434661082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661082" />
+    <state width="1638" height="372" key="GridCell.Tab.1.right" timestamp="1581434661083">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="372" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581434661083" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1581191322240">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581191322240" />
+    <state x="544" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580989590031">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="544" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1580989590031" />
+    <state x="578" y="285" width="548" height="484" key="extract.method.dialog" timestamp="1581000659596">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="285" width="548" height="484" key="extract.method.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581000659596" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581189768598">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581189768598" />
+    <state x="217" y="147" key="new project wizard" timestamp="1581190132031">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1581190132031" />
+    <state x="546" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1581186707876">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="148" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581186707876" />
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1580997930386">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580997930386" />
+  </component>
+</project>
